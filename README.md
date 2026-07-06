@@ -94,3 +94,9 @@ Catch specific exceptions, never bare `except:`.
 - `if __name__ == "__main__":` guards script entry points
 - Use `enumerate()` instead of manual counters
 - `zip()` to iterate two lists together
+
+## git
+
+- commit small and often
+- `git stash` before switching context
+- `git log --oneline -10` for a quick history view
